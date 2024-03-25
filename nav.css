@@ -1,0 +1,33 @@
+.nav{
+    background-color:palegreen;
+    overflow: hidden;
+    
+}
+
+/*Links in nav bar*/
+.nav a {
+    float: center;
+    color: rgb(0, 0, 0);
+    text-align: right;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size:2.5vw;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+  }
+  
+  /* Change the color of links on hover */
+  .nav a:hover {
+    background-color: pink;
+    color: black;
+  }
+  
+  /* Add a color to the active/current link */
+  .nav a.active {
+    background-color:lightpink;
+    color: black;
+  }
+
+body {
+  background-color:darkolivegreen;
+  }
