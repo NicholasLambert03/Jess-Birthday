@@ -111,7 +111,7 @@ function checkGuess () {
     }
 
     if (guessString === rightGuessString) {
-        alert("You guessed right! Game over!")
+        toastr.success("You guessed right I love you happy birthday hot girlfriend")
         guessesRemaining = 0
         return
     } else {
