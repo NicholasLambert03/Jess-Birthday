@@ -1,4 +1,4 @@
-$.get("/nav/nav.html", function(data) {
+$.get("../nav/nav.html", function(data) {
     document.getElementById('nav').innerHTML = data;
 });
 window.onload = function(){
