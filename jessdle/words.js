@@ -1,4 +1,5 @@
 export const WORDS = [
+    "boobs",
     "wench",
     "spoon",
     "sheep",

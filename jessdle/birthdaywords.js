@@ -8,4 +8,5 @@ export const BIRTHDAYWORDS = [
     "selby",
     "muffs",
     "beaut",
+    "boobs",
 ]
