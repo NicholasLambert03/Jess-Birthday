@@ -24,6 +24,6 @@
   
   /* Add a color to the active/current link */
   .nav a.active {
-    background-color:lightpink;
+    background-color:rgb(255, 0, 111);
     color: black;
   }

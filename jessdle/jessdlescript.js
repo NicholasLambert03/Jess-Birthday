@@ -130,7 +130,6 @@ let guessesRemaining = NUMBER_OF_GUESSES;
 let currentGuess = [];
 let nextLetter = 0;
 let rightGuessString = BIRTHDAYWORDS[Math.floor(Math.random() * BIRTHDAYWORDS.length)]
-console.log("hey")
 document.addEventListener("keyup", (e) => {
 
     if (guessesRemaining === 0) {
